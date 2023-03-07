@@ -6,7 +6,7 @@ const NewsItemBlock = styled.div`
     margin-right: 1rem;
     img{
       display: block;
-      width: 100px;
+      width: 160px;
       height: 100px;
       object-fit: cover;
     }
